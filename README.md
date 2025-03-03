@@ -83,12 +83,13 @@ Ensure you have the following installed before setting up QuickTick:
    npm run dev
    ```  
 6. **Run the frontend**
-```sh
+ ```sh
     cd frontend-quicktick
     npm run dev
-    ``` 
-4. **Access the app: **
-  * Open http://localhost:3000 in your browser to access QuickTick and test all features.
+    ```
+
+
+
    
    
          
