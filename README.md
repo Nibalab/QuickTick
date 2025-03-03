@@ -1,9 +1,8 @@
 # QuickTick
 
-<br><br>
+<br>
 
 <!-- project philosophy -->
-<img src="./readme/title2.svg" alt="Project Philosophy" />
 
 > QuickTick is a task management web app that helps users stay organized by offering task creation, prioritization, and real-time updates. Whether you're a student, professional, or part of a team, QuickTick allows you to manage your to-do list efficiently. Prioritize, complete, and track tasks with ease.
 
