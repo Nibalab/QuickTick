@@ -78,15 +78,16 @@ Ensure you have the following installed before setting up QuickTick:
 * CLIENT_URL=http://localhost:3000 or any localhost port that you are using
 * PORT=8000
 
-5. **Run the backend** 
- ```sh
-   npm run dev
-   ```  
+5. **Run the backend**
+```sh
+     php run dev
+   ``` 
 6. **Run the frontend**
- ```sh
-    cd frontend-quicktick
+```sh
     npm run dev
-    ```
+   ``` 
+7. **Access the app:**
+*  Open http://localhost:3000 in your browser to access QuickTick and test all features.
 
 
 
