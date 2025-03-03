@@ -63,7 +63,7 @@ Ensure you have the following installed before setting up QuickTick:
    ```
 2. **Install the frontend dependencied**
 ```sh
-   cd frontend-quicktick
+   cd frontend-quicktick/client
    npm install
    ```
 3. **Install the backend dependencied**
