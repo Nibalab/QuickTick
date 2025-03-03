@@ -58,7 +58,7 @@ Ensure you have the following installed before setting up QuickTick:
 
 1. **Clone the repo:**
 ```sh
-   git clone https://github.com/your-username/quicktick.git
+   git clone https://github.com/Nibalab/QuickTick.git
    cd quicktick
    ```
 2. **Install the frontend dependencied**
