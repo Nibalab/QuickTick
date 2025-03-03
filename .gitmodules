@@ -1,0 +1,6 @@
+[submodule "frontend-quicktick"]
+	path = frontend-quicktick
+	url = https://github.com/Nibalab/frontend-quicktick.git
+[submodule "backend-quicktick"]
+	path = backend-quicktick
+	url = https://github.com/Nibalab/backend-QuickTick.git
