@@ -80,7 +80,7 @@ Ensure you have the following installed before setting up QuickTick:
 
 5. **Run the backend**
 ```sh
-     php run dev
+     npm start
    ``` 
 6. **Run the frontend**
 ```sh
